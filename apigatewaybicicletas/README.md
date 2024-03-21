@@ -1,4 +1,4 @@
-# TP-Backend-Grupo47
+# apiGatewayBicicletas
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://labsys.frc.utn.edu.ar/gitlab/backend-app/tps-2023/GruTPI-47/tp-backend-grupo47.git
+git remote add origin https://labsys.frc.utn.edu.ar/gitlab/backend-app/tps-2023/GruTPI-9/apigatewaybicicletas.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://labsys.frc.utn.edu.ar/gitlab/backend-app/tps-2023/GruTPI-47/tp-backend-grupo47/-/settings/integrations)
+- [ ] [Set up project integrations](https://labsys.frc.utn.edu.ar/gitlab/backend-app/tps-2023/GruTPI-9/apigatewaybicicletas/-/settings/integrations)
 
 ## Collaborate with your team
 
